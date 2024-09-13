@@ -14,7 +14,7 @@ export const categories = [
   "Backend Web Development",
   "Web Development",
   "Coding",
-]
+];
 
 export const videos = [
   {
@@ -120,7 +120,7 @@ export const videos = [
       name: "Fireship",
       id: "Fireship",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s68-c-k-c0x00ffffff-no-rj",
     },
     views: 10323340,
     postedAt: new Date("2023-08-09"),
@@ -136,7 +136,7 @@ export const videos = [
       name: "Fireship",
       id: "Fireship",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s68-c-k-c0x00ffffff-no-rj",
     },
     views: 20323340,
     postedAt: new Date("2023-09-09"),
@@ -145,4 +145,4 @@ export const videos = [
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
-]
+];
