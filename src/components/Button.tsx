@@ -3,7 +3,7 @@ import { twMerge } from "tailwind-merge";
 import { ComponentProps } from "react";
 
 // cva(["classes for all components"], {classes for specific components})
-const buttonStyles = cva(["transition-colors"], {
+export const buttonStyles = cva(["transition-colors"], {
   variants: {
     // styles
     variant: {
