@@ -24,7 +24,7 @@ export const videos = [
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
     },
     views: 222536,
     postedAt: new Date("2023-08-29"),
@@ -40,7 +40,7 @@ export const videos = [
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
     },
     views: 257136,
     postedAt: new Date("2023-08-22"),
@@ -56,7 +56,7 @@ export const videos = [
       name: "Kevin Powell",
       id: "KevinPowell",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_mQczyuvnXgEq8fApoOXpG2Yw_JKYqRA7kVOhNFuHLz9Vc=s176-c-k-c0x00ffffff-no-rj-mo",
     },
     views: 1232300,
     postedAt: new Date("2023-10-05"),
@@ -72,7 +72,7 @@ export const videos = [
       name: "Kevin Powell",
       id: "KevinPowell",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_mQczyuvnXgEq8fApoOXpG2Yw_JKYqRA7kVOhNFuHLz9Vc=s176-c-k-c0x00ffffff-no-rj-mo",
     },
     views: 112,
     postedAt: new Date("2023-9-19"),
@@ -88,7 +88,7 @@ export const videos = [
       name: "Web Dev Simplified",
       id: "WebDevSimplified",
       profileUrl:
-        "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
     },
     views: 42345,
     postedAt: new Date("2023-03-02"),
@@ -104,7 +104,7 @@ export const videos = [
       name: "Caleb Curry",
       id: "CalebCurry",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+        "https://yt3.googleusercontent.com/ytc/AIdro_ndg1Q0vocIKu0U3Ks9SLkSCjZbGiZ2W1rhSsJoqZTgFK4=s160-c-k-c0x00ffffff-no-rj",
     },
     views: 10340,
     postedAt: new Date("2023-03-03"),
