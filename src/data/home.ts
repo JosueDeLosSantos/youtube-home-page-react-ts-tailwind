@@ -19,33 +19,35 @@ export const categories = [
 export const videos = [
   {
     id: "1",
-    title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
+    title: "The Best Software Engineering Advice | Prime Reacts",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "ThePrimeTime",
+      id: "ThePrimeTime",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "https://yt3.googleusercontent.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s160-c-k-c0x00ffffff-no-rj",
     },
-    views: 222536,
-    postedAt: new Date("2023-08-29"),
-    duration: 938,
-    thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
+    views: 386736,
+    postedAt: new Date("2024-03-26"),
+    duration: 3304,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/_2cbf1ixygk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjM2yfmAx0fMToTK-vGqW-BZgaqg",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
   {
     id: "2",
-    title: "NEW Way To Create Variables In JavaScript",
+    title: "How To Find Time To Learn After Work | Prime Reacts",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "ThePrimeTime",
+      id: "ThePrimeTime",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "https://yt3.googleusercontent.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s160-c-k-c0x00ffffff-no-rj",
     },
-    views: 257136,
-    postedAt: new Date("2023-08-22"),
-    duration: 732,
-    thumbnailUrl: "https://i.ytimg.com/vi/d6a8RymS1zI/maxresdefault.jpg",
+    views: 463745,
+    postedAt: new Date("2023-09-05"),
+    duration: 817,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/T8ZKo8Wa7hw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO-zUqJyV_b0pY2p0XKYDx_Ck2GQ",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
@@ -83,17 +85,18 @@ export const videos = [
   },
   {
     id: "5",
-    title: "I Cannot Believe React Made A Hook For This",
+    title: "Scams In Software Engineering",
     channel: {
-      name: "Web Dev Simplified",
-      id: "WebDevSimplified",
+      name: "ThePrimeTime",
+      id: "ThePrimeTime",
       profileUrl:
-        "https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s176-c-k-c0x00ffffff-no-rj-mo",
+        "https://yt3.googleusercontent.com/ytc/AIdro_k7J8-LWCa5QLDnY3x9kaArgJoSSMory4hgkYSBOFgvEg=s160-c-k-c0x00ffffff-no-rj",
     },
-    views: 42345,
-    postedAt: new Date("2023-03-02"),
-    duration: 1000,
-    thumbnailUrl: "https://i.ytimg.com/vi/M3mGY0pgFk0/maxresdefault.jpg",
+    views: 744362,
+    postedAt: new Date("2024-04-08"),
+    duration: 1904,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/2UvHiH7zJLU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AK4vaWhaF9b57JG4Ndv9v19D5y7EkcQRwT",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
@@ -142,6 +145,23 @@ export const videos = [
     postedAt: new Date("2023-09-09"),
     duration: 105,
     thumbnailUrl: "https://i.ytimg.com/vi/kxT8-C1vmd4/maxresdefault.jpg",
+    videoUrl:
+      "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+  },
+  {
+    id: "9",
+    title: "Stop Worrying About AI!",
+    channel: {
+      name: "Traversy Media",
+      id: "Traversy Media",
+      profileUrl:
+        "https://yt3.ggpht.com/ytc/AIdro_mLysKc36lc_FVk2j777olWvLOjgDz6NCNGdiQBnAKRENM=s48-c-k-c0x00ffffff-no-rj",
+    },
+    views: 50082,
+    postedAt: new Date("2024-02-06"),
+    duration: 399,
+    thumbnailUrl:
+      "https://i.ytimg.com/vi/xkGhNqVa1Vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIxX_DgA3jcm-bioSJTrghYKBGnw",
     videoUrl:
       "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
   },
