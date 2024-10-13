@@ -2,6 +2,9 @@
 
 This project is a replica of the YouTube home page built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
 
+See live preview at:
+https://youtube-home-page-react-ts-tailwind.vercel.app/
+
 <div>
   <img width="200" src="./src/assets/youtubehomepage.jpg" alt="youtube home page demo"/>
 </div>
