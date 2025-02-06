@@ -34,7 +34,7 @@ export function SideBar() {
   return (
     <>
       <aside
-        className={`scrollbar-hidden sticky top-0 ml-1 flex flex-col overflow-y-auto pb-4 ${isLargeOpen ? "lg:hidden" : "lg:flex"}`}
+        className={`scrollbar-hidden sticky top-0 ml-1 flex flex-col overflow-y-auto pb-4 max-md:hidden ${isLargeOpen ? "lg:hidden" : "lg:flex"}`}
       >
         <SmallSidebarItem Icon={Home} title="Home" url="/" />
         <SmallSidebarItem Icon={Repeat} title="Shorts" url="/shorts" />
